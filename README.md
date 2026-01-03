@@ -27,14 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### ⚡ Quick Bits
 - 🔭 I’m currently working on building full-stack applications with the **MERN** stack.
 - 🌱 I’m currently sharpening my skills in **Data Structures & Algorithms**.
