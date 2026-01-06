@@ -1,11 +1,11 @@
-# Hi there, I'm Anugrah 👋 
+# Hi there, I'm Anugrah 
 
-### 🚀 Full-Stack Web Developer (MERN)
+### Full-Stack Web Developer (MERN)
 **BCA Graduate** | Passionate about building scalable web solutions with robust backend logic and efficient REST APIs.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### **Frontend**
 <p>
@@ -26,15 +26,15 @@
 
 ---
 
-### ⚡ Quick Bits
-- 🔭 I’m currently working on building full-stack applications with the **MERN** stack.
-- 🌱 I’m currently sharpening my skills in **Data Structures & Algorithms**.
-- 💬 Ask me about **React, Node.js, or SQL/NoSQL databases**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/anugrah-k78/)**
+### Quick Bits
+- I’m currently working on building full-stack applications with the **MERN** stack.
+- I’m currently sharpening my skills in **Data Structures & Algorithms**.
+- Ask me about **React, Node.js, or SQL/NoSQL databases**.
+- How to reach me: **[LinkedIn](https://www.linkedin.com/in/anugrah-k78/)**
 
 ---
 
-### 🤝 Connect with me
+### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/anugrah-k78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anugrah-k78" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anu_g_r_a_h_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu_g_r_a_h_" height="30" width="40" /></a>
