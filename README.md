@@ -1,8 +1,7 @@
 # Hi there, I'm Anugrah 
 
 ### Full-Stack Web Developer (MERN)
-**BCA Graduate** | Passionate about building scalable web solutions with robust backend logic and efficient REST APIs.
-
+Self-taught full-stack developer and BCA graduate with hands-on experience in React, Node.js, Express, MongoDB, PostgreSQL, Tailwind CSS, and RESTful API development.
 ---
 
 ### Tech Stack
