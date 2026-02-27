@@ -34,7 +34,7 @@ I enjoy building real-world web applications across the full stack — from desi
 
 | Project | Tech | Live |
 |--------|------|------|
-| AI Content Creation Platform | React, Node.js, Gemini API, PostgreSQL | [Live](https://github.com/Anugrah71/React-Ai-app) |
+| AI Content Creation Platform | React, Node.js, Gemini API, PostgreSQL | [Live](https://react-ai-app-client-git-main-anugrah-ks-projects-cc3fdb90.vercel.app/) |
 | Weather Analytics Dashboard | React, Node.js, Express, Redis | [Live](https://weather-analytics-dashboar-rzv1.vercel.app/) |
 | Food Delivery App | MongoDB, Express, React, Node.js | [Live](https://food-website-1-ck7j.onrender.com/) |
 
